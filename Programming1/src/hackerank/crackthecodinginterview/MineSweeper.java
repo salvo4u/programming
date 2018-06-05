@@ -1,15 +1,9 @@
-package hackerank;
+package hackerank.crackthecodinginterview;
 
 import java.util.Scanner;
 
-public class ConnectedSets {
-	// static int mat[][] = { { 0, 0, 1, 0 }, { 1, 0, 1, 0 }, { 0, 1, 0, 0 },{
-	// 1, 1, 1, 1 } };
-	// static int mat[][] = { { 1, 0, 0, 1, 1 }, { 0, 0, 1, 0, 0 },{ 0, 0, 0, 0,
-	// 0 }, { 1, 1, 1, 1, 1 }, { 0, 0, 0, 0, 0 } };
+public class MineSweeper {
 
-	//static int mat[][] = { { 1, 0, 0, 1 }, { 0, 0, 0, 0 }, { 0, 1, 1, 0 },{ 1, 0, 0, 1 } };
-	//static int n = mat.length;
 	static int mat[][],n;
 	static void colorPath(int i, int j, int color) {
 		if (mat[i][j] <= 0)
@@ -59,15 +53,10 @@ public class ConnectedSets {
 	public static void main(String[] args) {
 		Scanner in = new Scanner(System.in);
 		int num = in.nextInt();
+		char arr[][num]=new char[][num];
 		for (int i = 0; i < num; i++) {
-			n = in.nextInt();
-			mat = new int[n][n];
-			for (int j = 0; j < n; j++) {
-				for (int k = 0; k < n; k++){
-						mat[j][k] = in.nextInt();
-				}
-			}
-			System.out.println(getConnected(n));
+		
+			
 		}
 	}
 }

@@ -1,4 +1,4 @@
-package hackerank;
+package hackerank.crackthecodinginterview;
 //https://www.hackerrank.com/challenges/ctci-ice-cream-parlor/problem
 import java.io.*;
 import java.math.*;

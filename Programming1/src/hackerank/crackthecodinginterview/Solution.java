@@ -1,4 +1,4 @@
-package hackerank;
+package hackerank.crackthecodinginterview;
 import java.util.HashMap;
 import java.util.Scanner;
 

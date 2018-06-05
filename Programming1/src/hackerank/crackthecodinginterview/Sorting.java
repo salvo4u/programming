@@ -1,4 +1,4 @@
-package hackerank;
+package hackerank.crackthecodinginterview;
 //https://www.hackerrank.com/challenges/ctci-comparator-sorting/problem
 import java.util.Arrays;
 import java.util.Comparator;

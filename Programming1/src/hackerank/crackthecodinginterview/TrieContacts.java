@@ -1,4 +1,4 @@
-package hackerank;
+package hackerank.crackthecodinginterview;
 //https://www.hackerrank.com/challenges/ctci-contacts/problem
 import java.util.ArrayList;
 import java.util.Arrays;

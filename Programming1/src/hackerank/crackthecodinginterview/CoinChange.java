@@ -1,4 +1,4 @@
-package hackerank;
+package hackerank.crackthecodinginterview;
 //https://www.hackerrank.com/challenges/ctci-coin-change/problem
 import java.util.Scanner;
 

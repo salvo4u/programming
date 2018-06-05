@@ -1,4 +1,4 @@
-package hackerank;
+package hackerank.crackthecodinginterview;
 //https://www.hackerrank.com/challenges/ctci-find-the-running-median/problem
 import java.util.ArrayList;
 import java.util.Scanner;

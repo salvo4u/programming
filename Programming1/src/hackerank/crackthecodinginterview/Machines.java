@@ -1,4 +1,4 @@
-package hackerank;
+package hackerank.crackthecodinginterview;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

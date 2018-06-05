@@ -1,4 +1,4 @@
-package hackerank;
+package hackerank.crackthecodinginterview;
 
 
 public class Steps {

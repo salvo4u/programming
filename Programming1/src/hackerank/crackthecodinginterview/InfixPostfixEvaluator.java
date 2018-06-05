@@ -1,4 +1,4 @@
-package hackerank;
+package hackerank.crackthecodinginterview;
 
 import java.io.IOException;
 import java.util.Stack;
